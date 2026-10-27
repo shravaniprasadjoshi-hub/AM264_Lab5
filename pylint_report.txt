@@ -1,6 +1,4 @@
-************* Module tower_maintenance
-tower_maintenance.py:70:0: C0304: Final newline missing (missing-final-newline)
 
-------------------------------------------------------------------
-Your code has been rated at 9.73/10 (previous run: 5.14/10, +4.59)
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.19/10, +0.81)
 
